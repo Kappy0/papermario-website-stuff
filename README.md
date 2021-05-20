@@ -1,2 +1,2 @@
-# wordpress-website-stuff
-A repository containing functionality I've implemented on my WordPress website
+# papermario-website-stuff
+A repository containing Paper Mario-inspired website animations/features/etc...
